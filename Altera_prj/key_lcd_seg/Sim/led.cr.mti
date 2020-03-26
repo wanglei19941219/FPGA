@@ -1,0 +1,8 @@
+E:/Prj/altera_prj/Sim/prj1_led_tb.v {1 {vlog -work work -vopt -nocovercells E:/Prj/altera_prj/Sim/prj1_led_tb.v
+Model Technology ModelSim SE-64 vlog 10.0c Compiler 2011.07 Jul 21 2011
+-- Compiling module prj1_led_tb
+
+Top level modules:
+	prj1_led_tb
+
+} {} {}}

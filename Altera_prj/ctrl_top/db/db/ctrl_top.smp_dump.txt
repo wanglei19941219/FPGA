@@ -1,0 +1,16 @@
+
+State Machine - |ctrl_top|sdram_top:sdram_top_inst|state
+Name state.RD state.WR state.AREF state.ARB state.IDLE 
+state.IDLE 0 0 0 0 0 
+state.ARB 0 0 0 1 1 
+state.AREF 0 0 1 0 1 
+state.WR 0 1 0 0 1 
+state.RD 1 0 0 0 1 
+
+State Machine - |ctrl_top|sdram_top:sdram_top_inst|sdram_write:sdram_write_inst|wr_state
+Name wr_state.WR_PRE wr_state.WRITE wr_state.WR_ACT wr_state.WR_REQ wr_state.WR_IDLE 
+wr_state.WR_IDLE 0 0 0 0 0 
+wr_state.WR_REQ 0 0 0 1 1 
+wr_state.WR_ACT 0 0 1 0 1 
+wr_state.WRITE 0 1 0 0 1 
+wr_state.WR_PRE 1 0 0 0 1 

@@ -1,0 +1,15 @@
+E:/Prj/altera_prj/uart/sor/uart_tx.v {1 {vlog -work work -vopt -nocovercells E:/Prj/altera_prj/uart/sor/uart_tx.v
+Model Technology ModelSim SE-64 vlog 10.0c Compiler 2011.07 Jul 21 2011
+-- Compiling module uart_tx
+
+Top level modules:
+	uart_tx
+
+} {} {}} E:/Prj/altera_prj/uart/sim/uart_tx_tb.v {1 {vlog -work work -vopt -nocovercells E:/Prj/altera_prj/uart/sim/uart_tx_tb.v
+Model Technology ModelSim SE-64 vlog 10.0c Compiler 2011.07 Jul 21 2011
+-- Compiling module uart_rx_tb
+
+Top level modules:
+	uart_rx_tb
+
+} {} {}}

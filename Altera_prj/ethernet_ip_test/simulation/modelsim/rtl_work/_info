@@ -1,0 +1,365 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/GIT_Project/project/Altera_prj/ethernet_ip_test/simulation/modelsim
+vethernet
+Z1 !s110 1584980270
+!i10b 1
+!s100 QFm7=I7ONJA9ViiC86QRB0
+I];?]zHg3mM]L1m_GHgVZX1
+Z2 V`JN@9S9cnhjKRR_L]QIcM3
+R0
+w1584978517
+8E:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_sim/ethernet.v
+FE:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_sim/ethernet.v
+L0 9
+Z3 OV;L;10.3d;59
+r1
+!s85 0
+31
+!s108 1584980270.028000
+!s107 E:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_sim/ethernet.v|
+!s90 -reportprogress|300|E:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_sim/ethernet.v|
+!i113 1
+vethgenerator
+R1
+!i10b 1
+!s100 J<hnS@d?j^;lf^cN:?NCk0
+ILF]3=6l`EkCEJC@296n7V2
+R2
+R0
+Z4 w1584978513
+8E:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models/ethgen.v
+FE:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models/ethgen.v
+Z5 L0 44
+R3
+r1
+!s85 0
+31
+!s108 1584980270.482000
+!s107 E:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models/ethgen.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models|E:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models/ethgen.v|
+!i113 1
+Z6 o-vlog01compat -work work
+Z7 !s92 -vlog01compat -work work +incdir+E:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models
+vethgenerator2
+R1
+!i10b 1
+!s100 F6DZmHX4eLE:joC8QHc7m3
+IN76@O6]3WCHT6ii4NB2OS3
+R2
+R0
+R4
+8E:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models/ethgen2.v
+FE:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models/ethgen2.v
+R5
+R3
+r1
+!s85 0
+31
+!s108 1584980270.709000
+!s107 E:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models/ethgen2.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models|E:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models/ethgen2.v|
+!i113 1
+R6
+R7
+vethgenerator32
+R1
+!i10b 1
+!s100 F79YOFj43m_7N4Z[J[C?83
+Ihn0>REGZYDcKON^=LR_fN2
+R2
+R0
+R4
+8E:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models/ethgen32.v
+FE:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models/ethgen32.v
+Z8 L0 45
+R3
+r1
+!s85 0
+31
+!s108 1584980270.923000
+!s107 E:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models/ethgen32.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models|E:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models/ethgen32.v|
+!i113 1
+R6
+R7
+vethmonitor
+Z9 !s110 1584980271
+!i10b 1
+!s100 WkGdNI:hoBZH_E@PkES;k3
+IYOZIY`gIEY9l2zQKl:O<]0
+R2
+R0
+R4
+8E:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models/ethmon.v
+FE:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models/ethmon.v
+R8
+R3
+r1
+!s85 0
+31
+!s108 1584980271.150000
+!s107 E:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models/ethmon.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models|E:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models/ethmon.v|
+!i113 1
+R6
+R7
+vethmonitor2
+R9
+!i10b 1
+!s100 ScK?_heg@:j[RjL<0LaOo0
+Ij?F=hLC0I29[D:c@ZeU_n0
+R2
+R0
+R4
+8E:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models/ethmon2.v
+FE:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models/ethmon2.v
+R5
+R3
+r1
+!s85 0
+31
+!s108 1584980271.571000
+!s107 E:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models/ethmon2.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models|E:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models/ethmon2.v|
+!i113 1
+R6
+R7
+vethmonitor_32
+R9
+!i10b 1
+!s100 S0;6HKADWZE0hI9YN9eKn2
+I:lQ:l_QmYCCXTLZH8<56>2
+R2
+R0
+R4
+8E:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models/ethmon_32.v
+FE:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models/ethmon_32.v
+R8
+R3
+r1
+!s85 0
+31
+!s108 1584980271.359000
+!s107 E:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models/ethmon_32.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models|E:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models/ethmon_32.v|
+!i113 1
+R6
+R7
+vloopback_adapter
+R9
+!i10b 1
+!s100 ]ki@hedN9VIGizShjk7:=2
+IF]j[7c_kWWZZAkDF6YmVa1
+R2
+R0
+R4
+8E:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models/loopback_adapter.v
+FE:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models/loopback_adapter.v
+Z10 L0 41
+R3
+r1
+!s85 0
+31
+!s108 1584980271.789000
+!s107 E:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models/loopback_adapter.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models|E:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models/loopback_adapter.v|
+!i113 1
+R6
+R7
+vloopback_adapter_fifo
+R9
+!i10b 1
+!s100 k8T`0gLCmd];2c?mkUngP0
+IR?5mdoQdz]fjh0?`g8g532
+R2
+R0
+R4
+8E:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models/loopback_adapter_fifo.v
+FE:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models/loopback_adapter_fifo.v
+R10
+R3
+r1
+!s85 0
+31
+!s108 1584980271.980000
+!s107 E:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models/loopback_adapter_fifo.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models|E:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models/loopback_adapter_fifo.v|
+!i113 1
+R6
+R7
+vmdio_reg_sim
+Z11 !s110 1584980272
+!i10b 1
+!s100 @ghf1moQ_UckmFAP_Y8@L0
+INYCZfodlCH0`D`]cDM1ON1
+R2
+R0
+R4
+8E:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models/mdio_reg.v
+FE:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models/mdio_reg.v
+R5
+R3
+r1
+!s85 0
+31
+!s108 1584980272.166000
+!s107 E:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models/mdio_reg.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models|E:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models/mdio_reg.v|
+!i113 1
+R6
+R7
+vmdio_slave
+R11
+!i10b 1
+!s100 EHkXDS@TVhkF0Vci[F8Z50
+IV^?XY;>E1C^F98Rj?5TWR3
+R2
+R0
+R4
+8E:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models/mdio_slave.v
+FE:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models/mdio_slave.v
+R8
+R3
+r1
+!s85 0
+31
+!s108 1584980272.389000
+!s107 E:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models/mdio_slave.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models|E:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models/mdio_slave.v|
+!i113 1
+R6
+R7
+vnf_phyip_reset_model
+R11
+!i10b 1
+!s100 fkk4S3_0ZfS?G9Mc;zWo21
+ICMWR5SIVJhVXa=dHEkJ@K3
+R2
+R0
+R4
+8E:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models/nf_phyip_reset_model.v
+FE:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models/nf_phyip_reset_model.v
+L0 30
+R3
+r1
+!s85 0
+31
+!s108 1584980272.603000
+!s107 E:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models/nf_phyip_reset_model.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models|E:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models/nf_phyip_reset_model.v|
+!i113 1
+R6
+R7
+vtb
+R1
+!i10b 1
+!s100 R_LoZdfc5ORf>@zNma:9b0
+I;0C:DKjH>hcCWY;8:Bc2Y0
+R2
+R0
+R4
+8E:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/ethernet/ethernet_tb.v
+FE:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/ethernet/ethernet_tb.v
+R8
+R3
+r1
+!s85 0
+31
+!s108 1584980270.231000
+!s107 E:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/ethernet/ethernet_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/ethernet|E:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/ethernet/ethernet_tb.v|
+!i113 1
+R6
+!s92 -vlog01compat -work work +incdir+E:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/ethernet
+vtop_ethgenerator32
+Z12 !s110 1584980273
+!i10b 1
+!s100 5<m9N@oob;n_kMYb0c]3g2
+IKV5=gQWhUOe_:0ISfCJEV3
+R2
+R0
+R4
+8E:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models/top_ethgen32.v
+FE:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models/top_ethgen32.v
+Z13 L0 43
+R3
+r1
+!s85 0
+31
+!s108 1584980273.013000
+!s107 E:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models/top_ethgen32.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models|E:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models/top_ethgen32.v|
+!i113 1
+R6
+R7
+vtop_ethgenerator_8
+R11
+!i10b 1
+!s100 gN8h]S8o;WBER5Ea<bZH33
+I>G68=QAhLn11LEEd`VXd^2
+R2
+R0
+R4
+8E:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models/top_ethgen8.v
+FE:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models/top_ethgen8.v
+R13
+R3
+r1
+!s85 0
+31
+!s108 1584980272.785000
+!s107 E:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models/top_ethgen8.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models|E:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models/top_ethgen8.v|
+!i113 1
+R6
+R7
+vtop_ethmonitor32
+R12
+!i10b 1
+!s100 7n[JF^6_VS=`Xl3[bgd<Z1
+INnVk^hC`C<K2]@>bHBI_d3
+R2
+R0
+R4
+8E:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models/top_ethmon32.v
+FE:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models/top_ethmon32.v
+R5
+R3
+r1
+!s85 0
+31
+!s108 1584980273.227000
+!s107 E:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models/top_ethmon32.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models|E:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models/top_ethmon32.v|
+!i113 1
+R6
+R7
+vtop_mdio_slave
+R12
+!i10b 1
+!s100 ^cUeBkKo`D[SG;OCD4f`R0
+In^gCVZL_k]I]Uf0D2SM1>0
+R2
+R0
+R4
+8E:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models/top_mdio_slave.v
+FE:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models/top_mdio_slave.v
+R5
+R3
+r1
+!s85 0
+31
+!s108 1584980273.444000
+!s107 E:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models/top_mdio_slave.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models|E:/GIT_Project/project/Altera_prj/ethernet_ip_test/ethernet_testbench/testbench_verilog/models/top_mdio_slave.v|
+!i113 1
+R6
+R7

@@ -1,0 +1,2 @@
+Info (10281): Verilog HDL Declaration information at adc_ctrl.v(20): object "STA_END" differs only in case from object "sta_end" in the same scope
+Info (10281): Verilog HDL Declaration information at adc_ctrl.v(21): object "CON_END" differs only in case from object "con_end" in the same scope

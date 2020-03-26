@@ -1,0 +1,16 @@
+Fitter Status : Successful - Sat Mar 14 13:06:32 2020
+Quartus II 64-Bit Version : 15.0.0 Build 145 04/22/2015 SJ Full Version
+Revision Name : iic_ctrl
+Top-level Entity Name : iic_top
+Family : Cyclone IV E
+Device : EP4CE6E22C8
+Timing Models : Final
+Total logic elements : 1,069 / 6,272 ( 17 % )
+    Total combinational functions : 685 / 6,272 ( 11 % )
+    Dedicated logic registers : 804 / 6,272 ( 13 % )
+Total registers : 804
+Total pins : 14 / 92 ( 15 % )
+Total virtual pins : 0
+Total memory bits : 79,872 / 276,480 ( 29 % )
+Embedded Multiplier 9-bit elements : 0 / 30 ( 0 % )
+Total PLLs : 0 / 2 ( 0 % )

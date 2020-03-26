@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dE:\modlesim\examples
+T_opt
+Z1 VQ>:m=P7WTojQ0CdKemYQZ2
+Z2 04 10 4 work iic_top_tb fast 0
+Z3 =1-208984f84b3e-5e6b4a51-133-2580
+Z4 o-quiet -auto_acc_if_foreign -work work +acc
+Z5 n@_opt
+Z6 OL;O;10.0c;49
+Z7 dE:\modlesim\examples
+viic_ctrl
+Z8 IeGlE6`]e]TNzVD@laDG8Y1
+Z9 VK@3J9TQH4lz_LnmCISjYk3
+Z10 dE:\Prj\altera_prj\iic_ctrl\sim
+Z11 w1584086805
+Z12 8./../sor/iic_ctrl.v
+Z13 F./../sor/iic_ctrl.v
+L0 1
+Z14 OL;L;10.0c;49
+r1
+31
+Z15 !s108 1584089678.779000
+Z16 !s107 ./../sor/key_ctrl.v|./../sor/iic_top.v|./../sor/iic_ctrl.v|
+Z17 !s90 -reportprogress|300|./../sor/iic_ctrl.v|./../sor/iic_top.v|./../sor/key_ctrl.v|
+Z18 o-L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+Z19 !s100 :;QcQOz]o<G:azX[VE]MM1
+!s85 0
+viic_top
+Z20 I8@J;CXIQbKm6N8=d6RzTa2
+Z21 VcdLXkiLQZ94>nFF`HcL3@1
+R10
+Z22 w1584082055
+Z23 8./../sor/iic_top.v
+Z24 F./../sor/iic_top.v
+L0 1
+R14
+r1
+31
+Z25 !s108 1584082438.890000
+R16
+R17
+R18
+Z26 !s100 Zjg[LjE2E3DP93ig_ADkS0
+!s85 0
+viic_top_tb
+Z27 II?>9lF?<?bQ>eIjN^3KGO0
+Z28 VZ6c8BY`lTQK3m>CoaB5813
+R10
+Z29 w1584083400
+Z30 8./iic_top_tb.v
+Z31 F./iic_top_tb.v
+L0 1
+R14
+r1
+31
+Z32 !s90 -reportprogress|300|./iic_top_tb.v|
+R18
+Z33 !s107 ./iic_top_tb.v|
+Z34 !s100 nLzO8S<cS>lVD4je]Y`YI2
+Z35 !s108 1584083412.485000
+!s85 0
+vkey_ctrl
+Z36 I:1>HkEj3@<@kEXS`LLU<K2
+Z37 Vdh2]LHaJ8R;ZSVG>mW_1h3
+R10
+Z38 w1584082869
+Z39 8./../sor/key_ctrl.v
+Z40 F./../sor/key_ctrl.v
+L0 1
+R14
+r1
+31
+Z41 !s108 1584082877.318000
+R16
+R17
+R18
+Z42 !s100 Kk6af4JLH4L1aJk9oc8dG1
+!s85 0

@@ -1,0 +1,30 @@
+Info: Start Nativelink Simulation process
+ERROR: Compiler database does not exist for revision name: ethernet. At the minimum, run Analysis & Synthesis (quartus_map) with the specified revision name before using this Tcl command.
+Error: NativeLink simulation flow was NOT successful
+
+
+
+================The following additional information is provided to help identify the cause of error while running nativelink scripts=================
+Nativelink TCL script failed with errorCode:  NONE
+Nativelink TCL script failed with errorInfo:  ERROR: Compiler database does not exist for revision name: ethernet. At the minimum, run Analysis & Synthesis (quartus_map) with the specified revision name before using this Tcl command.
+
+    while executing
+"get_file_info -info full_path -filename $file_name"
+    invoked from within
+"set full_path [get_file_info -info full_path -filename $file_name]"
+    invoked from within
+"foreach_in_collection fname $asgn_col {
+		set file_name  [get_assignment_info $fname -value]
+		set full_path [get_file_info -info full_path -filename ..."
+    (procedure "iputf_get_spd_file_list_from_qsf" line 19)
+    invoked from within
+"iputf_get_spd_file_list_from_qsf"
+    (procedure "iputf_get_spd_file_list" line 12)
+    invoked from within
+"iputf_get_spd_file_list"
+    (procedure "iputf_setup_info" line 25)
+    invoked from within
+"iputf_setup_info"
+    (procedure "run_eda_simulation_tool" line 184)
+    invoked from within
+"run_eda_simulation_tool eda_opts_hash"

@@ -1,0 +1,36 @@
+E:/Prj/altera_prj/time/Source/clock_top.v {1 {vlog -work work -vopt -nocovercells E:/Prj/altera_prj/time/Source/clock_top.v
+Model Technology ModelSim SE-64 vlog 10.0c Compiler 2011.07 Jul 21 2011
+-- Compiling module clock_top
+
+Top level modules:
+	clock_top
+
+} {} {}} E:/Prj/altera_prj/time/Sim/clock_top_tb.v {1 {vlog -work work -vopt -nocovercells E:/Prj/altera_prj/time/Sim/clock_top_tb.v
+Model Technology ModelSim SE-64 vlog 10.0c Compiler 2011.07 Jul 21 2011
+-- Compiling module clock_top_tb
+
+Top level modules:
+	clock_top_tb
+
+} {} {}} E:/Prj/altera_prj/time/Source/counter_ctrl.v {1 {vlog -work work -vopt -nocovercells E:/Prj/altera_prj/time/Source/counter_ctrl.v
+Model Technology ModelSim SE-64 vlog 10.0c Compiler 2011.07 Jul 21 2011
+-- Compiling module couner_ctrl
+
+Top level modules:
+	couner_ctrl
+
+} {} {}} E:/Prj/altera_prj/time/Source/segled_ctrl.v {1 {vlog -work work -vopt -nocovercells E:/Prj/altera_prj/time/Source/segled_ctrl.v
+Model Technology ModelSim SE-64 vlog 10.0c Compiler 2011.07 Jul 21 2011
+-- Compiling module segled_ctrl
+
+Top level modules:
+	segled_ctrl
+
+} {} {}} E:/Prj/altera_prj/time/Source/key_ctrl.v {1 {vlog -work work -vopt -nocovercells E:/Prj/altera_prj/time/Source/key_ctrl.v
+Model Technology ModelSim SE-64 vlog 10.0c Compiler 2011.07 Jul 21 2011
+-- Compiling module key_ctrl
+
+Top level modules:
+	key_ctrl
+
+} {} {}}

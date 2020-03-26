@@ -1,0 +1,47 @@
+m255
+K3
+13
+cModel Technology
+Z0 dE:\Prj\altera_prj\dac_top\sim
+T_opt
+Z1 VY;V6`m6[OR;Vzno1k`ehC0
+Z2 04 11 4 work adc_ctrl_tb fast 0
+Z3 =1-208984f84b3e-5e6f42f4-1ea-21a0
+Z4 o-quiet -auto_acc_if_foreign -work work +acc
+Z5 n@_opt
+Z6 OL;O;10.0c;49
+Z7 dE:\Prj\altera_prj\dac_top\sim
+vadc_ctrl
+Z8 Ioh;IQ7^C1hRU9D=ki?TKK1
+Z9 VenzE<eQG6KdE15]<8GoF71
+Z10 dE:\Prj\altera_prj\adc_top\sim
+Z11 w1584349929
+Z12 8./../sor/adc_ctrl.v
+Z13 F./../sor/adc_ctrl.v
+L0 1
+Z14 OL;L;10.0c;49
+r1
+31
+Z15 !s90 -reportprogress|300|./../sor/adc_ctrl.v|
+Z16 o-L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+Z17 !s107 ./../sor/adc_ctrl.v|
+Z18 !s100 1;nPNPU4`M6C_Hc`nzHS<0
+!s85 0
+Z19 !s108 1584349939.491000
+vadc_ctrl_tb
+Z20 IPS`<LzoL6K@7gU2D2lH:A0
+Z21 V^n7D<D7fRDz23dNQbEYAo2
+R10
+Z22 w1584349747
+Z23 8./adc_ctrl_tb.v
+Z24 F./adc_ctrl_tb.v
+L0 1
+R14
+r1
+31
+Z25 !s90 -reportprogress|300|./adc_ctrl_tb.v|
+R16
+Z26 !s107 ./adc_ctrl_tb.v|
+Z27 !s100 i]kz70F6BcjocFTMecBnj3
+Z28 !s108 1584349785.183000
+!s85 0

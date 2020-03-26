@@ -1,0 +1,8 @@
+
+State Machine - |adc_top|adc_ctrl:adc_ctrl_inst|state
+Name state.CON state.STO state.READ state.STA state.IDLE 
+state.IDLE 0 0 0 0 0 
+state.STA 0 0 0 1 1 
+state.READ 0 0 1 0 1 
+state.STO 0 1 0 0 1 
+state.CON 1 0 0 0 1 

@@ -1,0 +1,48 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/GIT_Project/project/Altera_prj/dds/sim
+vvga_ctrl
+Z0 !s110 1585221612
+!i10b 1
+!s100 ERfRno4nBh6m`=7T]8zJX1
+Ik4K2e0S`9nYA9U9_PXkH81
+Z1 V`JN@9S9cnhjKRR_L]QIcM3
+Z2 dE:/GIT_Project/project/Altera_prj/vga_ctrl/sim
+w1585221597
+8./../sor/vga_ctrl.v
+F./../sor/vga_ctrl.v
+L0 1
+Z3 OV;L;10.3d;59
+r1
+!s85 0
+31
+!s108 1585221612.925000
+!s107 ./../sor/vga_ctrl.v|
+!s90 -reportprogress|300|./../sor/vga_ctrl.v|
+!i113 1
+vvga_ctrl_tb
+R0
+!i10b 1
+!s100 ja?kEmA<V0?J`lXY;BKh_2
+Ii2TR6EVYK1@983PJ5LS=@3
+R1
+R2
+w1585199100
+8./vga_ctrl_tb.v
+F./vga_ctrl_tb.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1585221612.874000
+!s107 ./vga_ctrl_tb.v|
+!s90 -reportprogress|300|./vga_ctrl_tb.v|
+!i113 1
